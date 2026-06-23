@@ -15,3 +15,11 @@ Topics to begin with:
 - Python data analysis
 - Testing
 - GitHub automation
+
+## 2026-06-23
+
+Learning update at 2026-06-23 03:52:42
+
+- Topic: Testing with pytest
+- What I learned: Recorded a lightweight study update to keep the learning trail consistent.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
