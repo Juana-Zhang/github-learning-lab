@@ -1,0 +1,65 @@
+name: Learning update
+
+on:
+  schedule:
+    - cron: "0 4 * * 1,3,5,0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-learning-log:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Add learning update
+        run: |
+          today="$(date -u '+%Y-%m-%d')"
+          now="$(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          day_of_year="$(date -u '+%j')"
+
+          topics=(
+            "Python data analysis"
+            "Prompt design"
+            "AI agent workflow"
+            "RAG fundamentals"
+            "Testing with pytest"
+            "GitHub Actions"
+            "Docker basics"
+            "Model evaluation"
+            "Data cleaning"
+            "README documentation"
+          )
+
+          notes=(
+            "Captured one small learning checkpoint and kept the project history current."
+            "Added a practical note that can be expanded into a deeper example later."
+            "Recorded a lightweight study update to keep the learning trail consistent."
+            "Documented one useful idea and a next step for future practice."
+          )
+
+          topic="${topics[$((10#$day_of_year % ${#topics[@]}))]}"
+          note="${notes[$((10#$day_of_year % ${#notes[@]}))]}"
+
+          cat >> learning-log.md <<NOTE
+
+          ## ${today}
+
+          Learning update at ${now}
+
+          - Topic: ${topic}
+          - What I learned: ${note}
+          - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+          NOTE
+
+      - name: Commit and push
+        run: |
+          git config user.name "Juana-Zhang"
+          git config user.email "juanazhang919@gmail.com"
+          git add learning-log.md
+          git commit -m "docs: add learning update for $(date -u '+%Y-%m-%d')"
+          git push
