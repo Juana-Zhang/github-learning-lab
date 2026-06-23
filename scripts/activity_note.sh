@@ -50,3 +50,4 @@ if git diff --cached --quiet; then
 fi
 
 git commit -m "docs: add learning update for ${today}"
+git push origin main
