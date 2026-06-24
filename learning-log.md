@@ -39,3 +39,11 @@ Learning update at 2026-06-23 11:03:33 UTC
 - Topic: Testing with pytest
 - What I learned: Recorded a lightweight study update to keep the learning trail consistent.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-06-24
+
+Learning update at 2026-06-24 07:49:55 UTC
+
+- Topic: GitHub Actions
+- What I learned: Documented one useful idea and a next step for future practice.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
