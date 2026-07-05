@@ -87,3 +87,11 @@ Learning update at 2026-07-03 07:30:25 UTC
 - Topic: Testing with pytest
 - What I learned: Captured one small learning checkpoint and kept the project history current.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-07-05
+
+Learning update at 2026-07-05 07:33:30 UTC
+
+- Topic: Docker basics
+- What I learned: Recorded a lightweight study update to keep the learning trail consistent.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
