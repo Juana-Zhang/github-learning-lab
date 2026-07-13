@@ -127,3 +127,11 @@ Learning update at 2026-07-12 06:41:17 UTC
 - Topic: RAG fundamentals
 - What I learned: Added a practical note that can be expanded into a deeper example later.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-07-13
+
+Learning update at 2026-07-13 07:29:24 UTC
+
+- Topic: Testing with pytest
+- What I learned: Recorded a lightweight study update to keep the learning trail consistent.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
