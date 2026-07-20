@@ -159,3 +159,11 @@ Learning update at 2026-07-19 06:36:55 UTC
 - Topic: Python data analysis
 - What I learned: Captured one small learning checkpoint and kept the project history current.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-07-20
+
+Learning update at 2026-07-20 06:54:43 UTC
+
+- Topic: Prompt design
+- What I learned: Added a practical note that can be expanded into a deeper example later.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
