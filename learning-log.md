@@ -191,3 +191,11 @@ Learning update at 2026-07-26 06:42:30 UTC
 - Topic: Model evaluation
 - What I learned: Documented one useful idea and a next step for future practice.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-07-27
+
+Learning update at 2026-07-27 07:39:41 UTC
+
+- Topic: Data cleaning
+- What I learned: Captured one small learning checkpoint and kept the project history current.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
