@@ -239,3 +239,11 @@ Learning update at 2026-08-05 06:34:28 UTC
 - Topic: Model evaluation
 - What I learned: Added a practical note that can be expanded into a deeper example later.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-08-07
+
+Learning update at 2026-08-07 05:45:41 UTC
+
+- Topic: README documentation
+- What I learned: Documented one useful idea and a next step for future practice.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
