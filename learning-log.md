@@ -255,3 +255,11 @@ Learning update at 2026-08-09 05:11:36 UTC
 - Topic: Prompt design
 - What I learned: Added a practical note that can be expanded into a deeper example later.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-08-10
+
+Learning update at 2026-08-10 05:38:27 UTC
+
+- Topic: AI agent workflow
+- What I learned: Recorded a lightweight study update to keep the learning trail consistent.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
