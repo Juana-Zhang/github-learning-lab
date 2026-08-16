@@ -279,3 +279,11 @@ Learning update at 2026-08-14 05:41:57 UTC
 - Topic: Docker basics
 - What I learned: Recorded a lightweight study update to keep the learning trail consistent.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-08-16
+
+Learning update at 2026-08-16 04:41:46 UTC
+
+- Topic: Data cleaning
+- What I learned: Captured one small learning checkpoint and kept the project history current.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
