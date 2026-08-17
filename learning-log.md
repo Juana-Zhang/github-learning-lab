@@ -287,3 +287,11 @@ Learning update at 2026-08-16 04:41:46 UTC
 - Topic: Data cleaning
 - What I learned: Captured one small learning checkpoint and kept the project history current.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-08-17
+
+Learning update at 2026-08-17 04:51:07 UTC
+
+- Topic: README documentation
+- What I learned: Added a practical note that can be expanded into a deeper example later.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
