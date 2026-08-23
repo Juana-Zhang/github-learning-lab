@@ -311,3 +311,11 @@ Learning update at 2026-08-21 04:45:56 UTC
 - Topic: RAG fundamentals
 - What I learned: Added a practical note that can be expanded into a deeper example later.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-08-23
+
+Learning update at 2026-08-23 04:44:20 UTC
+
+- Topic: GitHub Actions
+- What I learned: Documented one useful idea and a next step for future practice.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
