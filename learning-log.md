@@ -319,3 +319,11 @@ Learning update at 2026-08-23 04:44:20 UTC
 - Topic: GitHub Actions
 - What I learned: Documented one useful idea and a next step for future practice.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-08-24
+
+Learning update at 2026-08-24 04:53:04 UTC
+
+- Topic: Docker basics
+- What I learned: Captured one small learning checkpoint and kept the project history current.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
