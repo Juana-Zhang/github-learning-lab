@@ -351,3 +351,11 @@ Learning update at 2026-08-30 09:52:19 UTC
 - Topic: AI agent workflow
 - What I learned: Recorded a lightweight study update to keep the learning trail consistent.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-08-31
+
+Learning update at 2026-08-31 10:44:21 UTC
+
+- Topic: RAG fundamentals
+- What I learned: Documented one useful idea and a next step for future practice.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
