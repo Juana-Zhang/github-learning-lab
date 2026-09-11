@@ -399,3 +399,11 @@ Learning update at 2026-09-09 08:52:53 UTC
 - Topic: AI agent workflow
 - What I learned: Captured one small learning checkpoint and kept the project history current.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-09-11
+
+Learning update at 2026-09-11 08:49:30 UTC
+
+- Topic: Testing with pytest
+- What I learned: Recorded a lightweight study update to keep the learning trail consistent.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
