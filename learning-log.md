@@ -407,3 +407,11 @@ Learning update at 2026-09-11 08:49:30 UTC
 - Topic: Testing with pytest
 - What I learned: Recorded a lightweight study update to keep the learning trail consistent.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-09-14
+
+Learning update at 2026-09-14 09:44:41 UTC
+
+- Topic: Model evaluation
+- What I learned: Added a practical note that can be expanded into a deeper example later.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
