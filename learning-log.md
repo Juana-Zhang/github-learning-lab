@@ -439,3 +439,11 @@ Learning update at 2026-09-20 09:12:15 UTC
 - Topic: RAG fundamentals
 - What I learned: Documented one useful idea and a next step for future practice.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-09-21
+
+Learning update at 2026-09-21 09:49:16 UTC
+
+- Topic: Testing with pytest
+- What I learned: Captured one small learning checkpoint and kept the project history current.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
