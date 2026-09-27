@@ -463,3 +463,11 @@ Learning update at 2026-09-25 09:31:21 UTC
 - Topic: Data cleaning
 - What I learned: Captured one small learning checkpoint and kept the project history current.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-09-27
+
+Learning update at 2026-09-27 09:56:05 UTC
+
+- Topic: Python data analysis
+- What I learned: Recorded a lightweight study update to keep the learning trail consistent.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
