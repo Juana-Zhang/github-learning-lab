@@ -471,3 +471,11 @@ Learning update at 2026-09-27 09:56:05 UTC
 - Topic: Python data analysis
 - What I learned: Recorded a lightweight study update to keep the learning trail consistent.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-09-28
+
+Learning update at 2026-09-28 10:46:03 UTC
+
+- Topic: Prompt design
+- What I learned: Documented one useful idea and a next step for future practice.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
