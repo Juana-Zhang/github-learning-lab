@@ -495,3 +495,11 @@ Learning update at 2026-10-02 10:25:00 UTC
 - Topic: GitHub Actions
 - What I learned: Documented one useful idea and a next step for future practice.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-10-04
+
+Learning update at 2026-10-04 10:30:23 UTC
+
+- Topic: Model evaluation
+- What I learned: Added a practical note that can be expanded into a deeper example later.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
