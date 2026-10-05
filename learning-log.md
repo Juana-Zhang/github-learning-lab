@@ -503,3 +503,11 @@ Learning update at 2026-10-04 10:30:23 UTC
 - Topic: Model evaluation
 - What I learned: Added a practical note that can be expanded into a deeper example later.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-10-05
+
+Learning update at 2026-10-05 11:20:23 UTC
+
+- Topic: Data cleaning
+- What I learned: Recorded a lightweight study update to keep the learning trail consistent.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
