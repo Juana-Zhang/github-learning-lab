@@ -535,3 +535,11 @@ Learning update at 2026-10-11 10:43:34 UTC
 - Topic: Testing with pytest
 - What I learned: Captured one small learning checkpoint and kept the project history current.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-10-12
+
+Learning update at 2026-10-12 11:49:19 UTC
+
+- Topic: GitHub Actions
+- What I learned: Added a practical note that can be expanded into a deeper example later.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
