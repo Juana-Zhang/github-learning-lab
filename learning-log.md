@@ -559,3 +559,11 @@ Learning update at 2026-10-16 08:55:19 UTC
 - Topic: README documentation
 - What I learned: Added a practical note that can be expanded into a deeper example later.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-10-18
+
+Learning update at 2026-10-18 08:45:39 UTC
+
+- Topic: Prompt design
+- What I learned: Documented one useful idea and a next step for future practice.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
