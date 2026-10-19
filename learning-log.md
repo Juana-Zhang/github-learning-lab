@@ -567,3 +567,11 @@ Learning update at 2026-10-18 08:45:39 UTC
 - Topic: Prompt design
 - What I learned: Documented one useful idea and a next step for future practice.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-10-19
+
+Learning update at 2026-10-19 09:46:13 UTC
+
+- Topic: AI agent workflow
+- What I learned: Captured one small learning checkpoint and kept the project history current.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
