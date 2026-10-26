@@ -599,3 +599,11 @@ Learning update at 2026-10-25 09:03:32 UTC
 - Topic: Data cleaning
 - What I learned: Recorded a lightweight study update to keep the learning trail consistent.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-10-26
+
+Learning update at 2026-10-26 09:58:16 UTC
+
+- Topic: README documentation
+- What I learned: Documented one useful idea and a next step for future practice.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
