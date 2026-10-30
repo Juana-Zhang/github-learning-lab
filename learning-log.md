@@ -615,3 +615,11 @@ Learning update at 2026-10-28 10:28:10 UTC
 - Topic: Prompt design
 - What I learned: Added a practical note that can be expanded into a deeper example later.
 - Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
+
+## 2026-10-30
+
+Learning update at 2026-10-30 10:47:13 UTC
+
+- Topic: RAG fundamentals
+- What I learned: Documented one useful idea and a next step for future practice.
+- Next step: Turn this note into either a short example, a checklist, or a cleaner explanation.
